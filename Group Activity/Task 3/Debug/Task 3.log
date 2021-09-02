@@ -1,0 +1,4 @@
+﻿  Task 3.cpp
+C:\Users\Kallu\OneDrive\Desktop\cs105\Group Activity\Task 3\Task 3.cpp(65,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kallu\OneDrive\Desktop\cs105\Group Activity\Task 3\Task 3.cpp(85,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Task 3.vcxproj -> C:\Users\Kallu\OneDrive\Desktop\cs105\Group Activity\Task 3\Debug\Task 3.exe
